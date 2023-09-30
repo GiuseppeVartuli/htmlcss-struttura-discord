@@ -48,4 +48,6 @@ nav{
     width: 50%;
     background-color: pink;
     margin-left: 25%;
+    border: 1px dashed black;
+    margin-top: 6rem;
 }
