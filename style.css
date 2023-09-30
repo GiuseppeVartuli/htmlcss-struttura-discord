@@ -17,17 +17,17 @@ header{
 }
 .logo{
     padding: 5px;
-    border: 1px dashed black;
+    border: 2px dashed black;
     width: 20%;
 }
 .menu{
     padding: 5px;
-    border: 1px dashed black;
+    border: 2px dashed black;
     width: 60%;
 }
 .login{
     padding: 5px;
-    border: 1px dashed black;
+    border: 2px dashed black;
     width: 20%;
 }
 a{
@@ -40,14 +40,44 @@ nav{
     display: flex;
     height: 500px;
     width: 100%;
-    background-color: rgb(3, 3, 146);
-
 }
+.blue{
+    background-color: rgb(3, 3, 146);
+}
+.white{
+    background-color: white;
+}
+.lightgrey{
+    background-color: lightgrey;
+}
+
 .dowload{
     height: 300px;
     width: 50%;
     background-color: pink;
     margin-left: 25%;
-    border: 1px dashed black;
+    border: 2px dashed black;
     margin-top: 6rem;
+}
+
+.text{
+    height: 400px;
+    width: 45%;
+    
+    margin-left: 15%;
+    border: 2px dashed black;
+    margin-top: 3rem;
+}
+.banner{
+    height: 400px;
+    width: 25%;
+    
+    border: 2px dashed black;
+    margin-top: 3rem;
+}
+.lightblue{
+    background-color: rgb(89, 89, 248);
+}
+.lightpink{
+    background-color: rgb(226, 175, 183);
 }
