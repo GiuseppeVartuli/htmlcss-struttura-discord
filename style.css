@@ -50,6 +50,12 @@ nav{
 .lightgrey{
     background-color: lightgrey;
 }
+.lightblue{
+    background-color: rgb(89, 89, 248);
+}
+.lightpink{
+    background-color: rgb(226, 175, 183);
+}
 
 .dowload{
     height: 300px;
@@ -74,10 +80,4 @@ nav{
     
     border: 2px dashed black;
     margin-top: 3rem;
-}
-.lightblue{
-    background-color: rgb(89, 89, 248);
-}
-.lightpink{
-    background-color: rgb(226, 175, 183);
 }
