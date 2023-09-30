@@ -3,3 +3,33 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+header{
+    background-color: aquamarine;
+    height: 40px;
+    padding: 5px;
+}
+.titolo{
+    display: flex;
+    width: 50%;
+    background-color: orange;
+    margin-left: 25%;
+}
+.logo{
+    padding: 5px;
+    border: 1px dashed black;
+    width: 20%;
+}
+.menu{
+    padding: 5px;
+    border: 1px dashed black;
+    width: 60%;
+}
+.login{
+    padding: 5px;
+    border: 1px dashed black;
+    width: 20%;
+}
+a{
+    list-style: none;
+}
