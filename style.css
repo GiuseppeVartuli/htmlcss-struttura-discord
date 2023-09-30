@@ -33,3 +33,19 @@ header{
 a{
     list-style: none;
 }
+nav{
+
+}
+.conteiner{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(3, 3, 146);
+
+}
+.dowload{
+    height: 300px;
+    width: 50%;
+    background-color: pink;
+    margin-left: 25%;
+}
