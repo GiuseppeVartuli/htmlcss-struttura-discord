@@ -163,8 +163,8 @@ a{
     
 }
 .conteiner3{
-    justify-content: space-around;
-    align-self: flex-end;
+    justify-content: space-between;
+    align-self: center;
     width: 70%;
     height: 40px;
     background-color: rgb(45, 141, 45);
