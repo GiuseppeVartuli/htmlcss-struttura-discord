@@ -14,6 +14,7 @@ header{
     width: 50%;
     background-color: orange;
     margin-left: 25%;
+    align-self: center;
 }
 .logo{
     padding: 5px;
@@ -24,6 +25,7 @@ header{
     padding: 5px;
     border: 2px dashed black;
     width: 60%;
+    
 }
 .login{
     padding: 5px;
@@ -33,9 +35,7 @@ header{
 a{
     list-style: none;
 }
-nav{
 
-}
 .conteiner{
     display: flex;
     height: 500px;
@@ -81,3 +81,18 @@ nav{
     border: 2px dashed black;
     margin-top: 3rem;
 }
+.text2{
+    height: 400px;
+    width: 45%;
+    
+    
+    border: 2px dashed black;
+    margin-top: 3rem;
+    }
+.banner2{
+    height: 400px;
+    width: 25%;
+    margin-left: 15%;
+    border: 2px dashed black;
+    margin-top: 3rem;
+    }
