@@ -41,6 +41,7 @@ a{
     height: 500px;
     width: 100%;
 }
+
 .blue{
     background-color: rgb(3, 3, 146);
 }
@@ -96,3 +97,16 @@ a{
     border: 2px dashed black;
     margin-top: 3rem;
     }
+.conteiner_plus{
+    display: flex;
+    height: 1000px;
+    width: 100%;
+}
+.dowload2{
+    height: 800px;
+    width: 70%;
+    background-color: green;
+    margin-left: 200px;
+    border: 2px dashed black;
+    margin-top: 7rem;   
+}
