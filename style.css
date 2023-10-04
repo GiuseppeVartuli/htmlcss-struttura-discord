@@ -13,29 +13,26 @@ header{
 .titolo{
     display: flex;
     width: 50%;
-    background-color: orange;
     margin-left: 25%;
     align-self: center;
 }
 .logo{
     padding: 5px;
-    border: 2px dashed black;
+
     width: 20%;
 }
 .menu{
     padding: 5px;
-    border: 2px dashed black;
+
     width: 60%;
     text-align: center;
 }
 .login{
     padding: 5px;
-    border: 2px dashed black;
+    text-align: end;
     width: 20%;
 }
-a{
-    list-style: none;
-}
+
 
 .conteiner{
     display: flex;
@@ -43,19 +40,25 @@ a{
     width: 100%;
 }
 
-.blue{
+.debug .b2{
+    border: 2px dashed black;
+}
+.debug .orange{
+    background-color: orange;
+}
+.debug .blue{
     background-color: rgb(3, 3, 146);
 }
-.white{
+.debug .white{
     background-color: white;
 }
-.lightgrey{
+.debug .lightgrey{
     background-color: lightgrey;
 }
-.lightblue{
+.debug .lightblue{
     background-color: rgb(89, 89, 248);
 }
-.lightpink{
+.debug .lightpink{
     background-color: rgb(226, 175, 183);
 }
 
@@ -65,7 +68,7 @@ a{
     width: 50%;
     background-color: pink;
     margin-left: 25%;
-    border: 2px dashed black;
+
     margin-top: 6rem;
 }
 
@@ -74,14 +77,14 @@ a{
     width: 45%;
     
     margin-left: 15%;
-    border: 2px dashed black;
+
     margin-top: 3rem;
 }
 .banner{
     height: 400px;
     width: 25%;
     
-    border: 2px dashed black;
+
     margin-top: 3rem;
 }
 .text2{
@@ -89,14 +92,14 @@ a{
     width: 45%;
     
     
-    border: 2px dashed black;
+
     margin-top: 3rem;
     }
 .banner2{
     height: 400px;
     width: 25%;
     margin-left: 15%;
-    border: 2px dashed black;
+
     margin-top: 3rem;
     }
 .conteiner_plus{
@@ -109,7 +112,7 @@ a{
     width: 70%;
     background-color: green;
     margin-left: 200px;
-    border: 2px dashed black;
+
     margin-top: 7rem;   
 }
 #top{
@@ -117,7 +120,7 @@ a{
     height: 500px;
     width: 100%; 
     background-color: rgb(59, 58, 58); 
-    border-bottom: 1px solid white;
+    margin-bottom: 2px ;
 }
 
 .contatti{
@@ -126,35 +129,35 @@ a{
     width: 350px;
     margin-top: 0.5rem;
     margin-left: 200px;
-    border: 2px dashed black;
+
 }
 .prodotto{
     background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-    border: 2px dashed  black;
+
 }
 .compagnia{
     background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-    border: 2px dashed  black;   
+   
 }
 .risorse{
     background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-    border: 2px dashed  black;
+
 }
 .norme{
     background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-    border: 2px dashed  black;
+
 }
 #bottom{
     
