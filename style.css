@@ -5,9 +5,11 @@
     text-decoration: none;
 }
 
-header{
+.debug .bar{
     background-color: aquamarine;
     height: 40px;
+}
+.debug .p5{
     padding: 5px;
 }
 .titolo{
@@ -17,18 +19,13 @@ header{
     align-self: center;
 }
 .logo{
-    padding: 5px;
-
     width: 20%;
 }
 .menu{
-    padding: 5px;
-
     width: 60%;
     text-align: center;
 }
 .login{
-    padding: 5px;
     text-align: end;
     width: 20%;
 }
@@ -61,45 +58,49 @@ header{
 .debug .lightpink{
     background-color: rgb(226, 175, 183);
 }
-
+.debug .darkgrey{
+    background-color: rgb(59, 58, 58);
+}
+.debug .green{
+    background-color: green;
+}
+.debug .lightgreen{
+    background-color: rgb(45, 141, 45);
+}
+.debug .pink{
+    background-color: pink;
+}
+.debug .aqua{
+    background-color: aqua;
+}
 
 .dowload{
     height: 300px;
     width: 50%;
-    background-color: pink;
     margin-left: 25%;
-
     margin-top: 6rem;
 }
 
 .text{
     height: 400px;
     width: 45%;
-    
     margin-left: 15%;
-
     margin-top: 3rem;
 }
 .banner{
     height: 400px;
     width: 25%;
-    
-
     margin-top: 3rem;
 }
 .text2{
     height: 400px;
-    width: 45%;
-    
-    
-
+    width: 45%; 
     margin-top: 3rem;
     }
 .banner2{
     height: 400px;
     width: 25%;
     margin-left: 15%;
-
     margin-top: 3rem;
     }
 .container_plus{
@@ -110,21 +111,17 @@ header{
 .dowload2{
     height: 800px;
     width: 70%;
-    background-color: green;
     margin-left: 200px;
-
     margin-top: 7rem;   
 }
-#top{
+.top{
     display: flex;
     height: 500px;
-    width: 100%; 
-    background-color: rgb(59, 58, 58); 
+    width: 100%;  
     margin-bottom: 2px ;
 }
 
 .contatti{
-    background-color: rgb(197, 141, 150);
     height: 480px;
     width: 350px;
     margin-top: 0.5rem;
@@ -132,36 +129,27 @@ header{
 
 }
 .prodotto{
-    background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
 
 }
 .compagnia{
-    background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-    
 }
 .risorse{
-    background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-
 }
 .norme{
-    background-color: aqua;
     height: 480px;
     width: 150px;
     margin-top: 0.5rem;
-
 }
-#bottom{
-    
-    background-color: rgb(59, 58, 58) ;
+.bottom{
     width: 100%;
     height: 50px;
 }
@@ -172,16 +160,13 @@ header{
     align-items: center;
     width: 70%;
     height: 40px;
-    background-color: rgb(45, 141, 45);
     margin-left: 15%;
 }
 .logo2{
-    background-color: pink;
     width: 50px;
     height: 20px;
 }
 .bottone{
-    background-color: pink;
     width: 50px;
     height: 20px;
 }
