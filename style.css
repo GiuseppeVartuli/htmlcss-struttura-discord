@@ -154,30 +154,30 @@
 
 
 
-.h300{
+.debug .h300{
     height: 300px;
 }
-.h400{
+.debug .h400{
     height: 400px;
 }
-.h480{
+.debug .h480{
     height: 480px;
 }
-.h50{
+.debug .h50{
     height: 50px;
 }
-.h40{
+.debug .h40{
     height: 40px;
 }
-.h20{
+.debug .h20{
     height: 20px;
 }
-.h500{
+.debug .h500{
     height: 500px;
 }
-.h800{
+.debug .h800{
     height: 800px;
 }
-.h1000{
+.debug .h1000{
     height: 1000px;
 }
